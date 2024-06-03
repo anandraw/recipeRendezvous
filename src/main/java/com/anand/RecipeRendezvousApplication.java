@@ -10,7 +10,7 @@ public class RecipeRendezvousApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RecipeRendezvousApplication.class, args);
-		System.out.println("Appliation Started...Anand");
+		System.out.println("Appliation Started...");
 	}
 
 	@Bean
